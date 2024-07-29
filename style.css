@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box1 {
+    width: 480px;
+    height: 601px;
+    margin: auto;
+    margin-top: 163px;
+    border: 2px solid black;
+    background-color: rgba(236, 167, 41, 0.904);
+    border: 3px solid black;
+    border-radius: 48%;
+    position: relative;
+
+}
+
+.box2 {
+    width: 94px;
+    height: 195px;
+    border-radius: 40%;
+    background-color: rgba(228, 172, 68, 0.904);
+    display: block;
+    position: absolute;
+    right: 640px;
+    top: 48px;
+    border: 2px solid black;
+}
+
+.box3 {
+    width: 94px;
+    height: 195px;
+    border-radius: 40%;
+    background-color: rgba(228, 172, 68, 0.904);
+    display: block;
+    position: absolute;
+    left: 640px;
+    top: 48px;
+    border: 2px solid black;
+
+}
+
+.box4 {
+    width: 54px;
+    height: 138px;
+    border-radius: 50%;
+    background-color: rgba(226, 158, 205, 0.904);
+    display: block;
+    position: absolute;
+    right: 655px;
+    top: 68px;
+    border: 2px solid black;
+
+}
+
+.box5 {
+    width: 54px;
+    height: 138px;
+    border-radius: 50%;
+    background-color: rgba(226, 158, 205, 0.904);
+    display: block;
+    position: absolute;
+    left: 660px;
+    top: 68px;
+    border: 2px solid black;
+}
+
+.box6 {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    background-color: rgb(94, 35, 35);
+    border: 2px solid black;
+}
+
+.boxes {
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    justify-content: space-evenly;
+    z-index: 1;
+    left: 605px;
+    top: 200px;
+}
+
+.box7 {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid black;
+
+}
+
+.goz {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    justify-content: space-evenly;
+    z-index: 3;
+    left: 655px;
+    top: 250px;
+    gap: 100px;
+
+}
+
+.box8 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(14, 14, 14);
+}
+
+.gozici {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    justify-content: space-evenly;
+    z-index: 3;
+    left: 700px;
+    top: 250px;
+    gap: 150px;
+
+}
+
+.box9 {
+    width: 20px;
+    height: 8px;
+    background-color: rgb(14, 14, 14);
+}
+
+.burun {
+    width: 100px;
+    height: 60px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    justify-content: space-evenly;
+    z-index: 4;
+    right: 800px;
+    bottom: 340px;
+    gap: 30px;
+}
+
+.aqiz {
+    width: 200px;
+    height: 180px;
+    margin: auto;
+    align-items: center;
+    position: absolute;
+    justify-content: center;
+    right: 770px;
+    bottom: 160px;
+    background-color: rgb(236, 62, 62);
+    border-radius: 50%;
+    border: 2px solid black;
+
+}
+
+.bowluq {
+    width: 200px;
+    height: 180px;
+    margin: auto;
+    position: absolute;
+    justify-content: center;
+    right: 720px;
+    bottom: 225px;
+    background-color: rgba(245, 180, 58, 0.904);
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.dil {
+
+    width: 90px;
+    height: 60px;
+    margin: auto;
+    align-items: center;
+    position: absolute;
+    justify-content: center;
+    left: 760px;
+    bottom: 180px;
+    background-color: pink;
+    border-radius: 70px;
+    border: 2px solid black;
+
+}
+
+.eynek {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    align-items: center;
+    position: absolute;
+    z-index: 3;
+    left: 845px;
+    top: 390px;
+    background-color: rgb(86, 18, 18);
+}
+
+.box10 {
+    width: 40px;
+    height: 8px;
+    background-color: rgb(14, 14, 14);
+}
+
+.qaw {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    justify-content: space-evenly;
+    z-index: 5;
+    right: 700px;
+    top: 230px;
+    gap: 160px;
+}
